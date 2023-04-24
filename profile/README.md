@@ -1,4 +1,4 @@
-#¡Bienvenidos a BBS Labs! 
+# ¡Bienvenidos a BBS Labs! 
 
 Somos una empresa dedicada a la incubación de proyectos web3 y blockchain con el propósito de mejorar los procesos y servicios de las empresas, haciéndolos más baratos y escalables.
 

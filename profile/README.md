@@ -1,12 +1,14 @@
 # ¡Bienvenidos a The Zen! 
 
-En el corazón de la innovación tecnológica y la excelencia empresarial, se encuentra The Zen, una empresa dedicada a liderar la revolución digital en el mundo corporativo. Con una visión audaz y una misión clara, nos posicionamos como un faro de cambio, guiando a las organizaciones hacia un futuro más conectado, eficiente y sostenible.
-
 Nuestra empresa está impulsada por una pasión inquebrantable por la innovación. En un mundo en constante evolución, nos destacamos por estar a la vanguardia de las últimas tendencias tecnológicas, explorando y adoptando nuevas ideas para ofrecer soluciones creativas y eficientes a nuestros clientes. Desde el desarrollo de software hasta el diseño de experiencias de usuario, nuestra dedicación a la innovación constante es la piedra angular de nuestro éxito.
 
 En The Zen, la excelencia es nuestro estándar. Nos esforzamos por superar las expectativas en todo lo que hacemos, desde la calidad de nuestros productos hasta la atención al cliente. Nuestro compromiso con la calidad y la excelencia se refleja en cada aspecto de nuestra empresa, asegurando la satisfacción y el éxito de nuestros clientes en cada paso del camino.
 
 Además, reconocemos nuestra responsabilidad hacia la sociedad y el medio ambiente. Operamos de manera ética y sostenible, contribuyendo positivamente al entorno y promoviendo prácticas comerciales socialmente responsables. Nos esforzamos por ser un agente de cambio positivo en el mundo, utilizando nuestra influencia y recursos para hacer una diferencia significativa en la comunidad.
+
+## **Historia**
+Fundada por los socios Jorge Eduardo Montañez Granados y Nathan Octavio Lazo, The Zen tiene su origen en un proyecto innovador que consistió en la creación de un videojuego de metaverso con tecnología web3, incorporando blockchain y NFTs como se muestra en el Anexo 1. Este proyecto no solo se destacó por su creatividad, sino también por introducir un nuevo modelo de negocio que podría cambiar la forma en que las empresas operan y generan ingresos.
+En el corazón de la innovación tecnológica y la excelencia empresarial, se encuentra The Zen, una empresa dedicada a liderar la revolución digital en el mundo corporativo. Con una visión audaz y una misión clara, nos posicionamos como un faro de cambio, guiando a las organizaciones hacia un futuro más conectado, eficiente y sostenible.
 
 ## **Misión**
 

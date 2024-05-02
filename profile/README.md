@@ -9,9 +9,11 @@ En The Zen, la excelencia es nuestro estándar. Nos esforzamos por superar las e
 Además, reconocemos nuestra responsabilidad hacia la sociedad y el medio ambiente. Operamos de manera ética y sostenible, contribuyendo positivamente al entorno y promoviendo prácticas comerciales socialmente responsables. Nos esforzamos por ser un agente de cambio positivo en el mundo, utilizando nuestra influencia y recursos para hacer una diferencia significativa en la comunidad.
 
 **Misión:**
+
 En The Zen, nuestra misión es liderar la transformación digital empresarial, ofreciendo soluciones tecnológicas innovadoras que impulsen el crecimiento y la eficiencia de las organizaciones. Nos comprometemos a proporcionar herramientas y servicios de vanguardia que permitan a nuestros clientes adaptarse y prosperar en un entorno empresarial en constante evolución.
 
 **Visión:**
+
 Nuestra visión es ser reconocidos globalmente como líderes en tecnología empresarial, inspirando un cambio positivo en la forma en que las empresas operan y generan valor. Nos esforzamos por ser la primera opción para las organizaciones que buscan soluciones tecnológicas avanzadas, liderando el camino hacia un futuro digital más conectado, eficiente y sostenible.
 
 **Políticas:**
